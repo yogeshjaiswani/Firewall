@@ -1,4 +1,4 @@
-How to use firewall:
+How to use firewall. Defined in 6 steps.
 
 1. Install mitmproxy
 
